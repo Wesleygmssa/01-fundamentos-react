@@ -35,7 +35,7 @@ export function Comment(props: CommentProps) {
           <header>
             <div className={styles.authorAndTime}>
               <strong>Wesley Guerra</strong>
-              <time title="11 de Maio às 00:13" dataTime="2022-05-11 08:13:30">
+              <time title="11 de Maio às 00:13" dateTime="2022-05-11 08:13:30">
                 Cerca de 1h atrás
               </time>
             </div>
